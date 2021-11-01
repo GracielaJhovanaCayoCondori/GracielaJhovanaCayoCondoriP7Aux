@@ -1,0 +1,9 @@
+.custom {
+  background: #f1356d;
+  margin-right: 8px;
+  color: #fff;
+  border: 200;
+  padding: 7px;
+  border-radius: 50px;
+  cursor: pointer;
+}
